@@ -1,0 +1,7 @@
+aa_mon:
+    resource: "@AAMonBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

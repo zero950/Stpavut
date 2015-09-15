@@ -1,0 +1,3 @@
+aa_mon_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AAMonBundle:Default:index }

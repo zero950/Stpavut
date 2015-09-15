@@ -1,0 +1,4 @@
+services:
+#    aa_mon.example:
+#        class: AA\MonBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
